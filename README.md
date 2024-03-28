@@ -1,2 +1,2 @@
 # interactive-quiz
-Interactive quiz created with HTML/CSS/Javascript
+Interactive quiz created with HTML/CSS/Javascript👍🏾
